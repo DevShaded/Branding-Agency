@@ -6,9 +6,12 @@ h1{
     margin-bottom: 100px;
 }
 
-h2{
+span.sub-title{
     text-transform: uppercase;
-    font-size: 48px;
+    color: #FFFFFF;
+    padding: 40px;
+    font-size: 43px;
+    margin-bottom: 100%;
 }
 
 html, body{
