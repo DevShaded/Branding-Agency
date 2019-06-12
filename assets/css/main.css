@@ -7,15 +7,14 @@ h1{
 }
 
 span.sub-title{
-    text-transform: uppercase;
     color: #FFFFFF;
     padding: 40px;
-    font-size: 43px;
-    margin-bottom: 100%;
+    font-size: 33px;
+    margin-bottom: 200px;
 }
 
 html, body{
-    background-color: black;
+    background-color: white;
 }
 
 
@@ -28,4 +27,8 @@ html, body{
     height: 100vh;
 
     text-align: center;
+}
+
+.top{
+    color: #FFFFFF;
 }
