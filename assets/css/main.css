@@ -36,3 +36,7 @@ html, body{
 .container-fluid{
     color: #FFFFFF;
 }
+
+.testimonials {
+    background: #EBEBEB;
+}
