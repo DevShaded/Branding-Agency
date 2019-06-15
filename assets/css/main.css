@@ -37,6 +37,19 @@ html, body{
     color: #FFFFFF;
 }
 
-.testimonials {
-    background: #EBEBEB;
+.testimonials{
+    color: #FFFFFF;
+}
+
+.pd50{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.container-fluid{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
 }
