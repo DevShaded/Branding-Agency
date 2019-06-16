@@ -1,17 +1,3 @@
-h1{
-    text-transform: uppercase;
-    padding: 50px;
-    font-size: 75px;
-    color: #FFFFFF;
-    margin-bottom: 100px;
-}
-
-span.sub-title{
-    color: #FFFFFF;
-    padding: 40px;
-    font-size: 33px;
-    margin-bottom: 200px;
-}
 
 html, body{
     background-color: white;
@@ -19,37 +5,31 @@ html, body{
 
 
 .headerImage{
-    background-image: url('../images/header.png');
+    background-image: url('../images/overlay.png');
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     height: 100vh;
-
-    text-align: center;
 }
 
-.card-columns{
+.vertical-align {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+
     color: #FFFFFF;
 }
 
-.container-fluid{
+h4 {
+    padding-left: 130px;
+    font-size: 25px;
     color: #FFFFFF;
+    margin-bottom: 40px;
 }
 
-.testimonials{
-    color: #FFFFFF;
-}
-
-.pd50{
-    padding-top: 50px;
-    padding-bottom: 50px;
-}
-
-.container-fluid{
-    width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
+h1 {
+    font-size: ;
 }
