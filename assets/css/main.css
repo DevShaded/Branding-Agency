@@ -5,7 +5,7 @@ html, body{
 
 
 .headerImage{
-    background-image: url('../images/overlay.png');
+    background-image: url('../images/header.png');
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
