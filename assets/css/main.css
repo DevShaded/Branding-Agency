@@ -33,3 +33,13 @@ h4 {
 h1{
     margin-bottom: 200px;
 }
+
+.about {
+    padding-top: 50px;
+    background: #ebebeb;
+    padding-left: 20px;
+}
+
+.signature {
+    padding: 15px;
+}
