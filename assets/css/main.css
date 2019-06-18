@@ -43,3 +43,40 @@ h1{
 .signature {
     padding: 15px;
 }
+
+.join-us{
+    background: #313131;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.white{
+    color: #FFFFFF;
+}
+
+h2{
+    text-transform: uppercase;
+    font-size: 48px;
+
+}
+
+p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.button{
+    padding-left: 90px;
+}
+
+.btn{
+    padding: 35px 60px;
+    font-size: 48px;
+}
