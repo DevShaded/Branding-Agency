@@ -80,3 +80,17 @@ p{
     padding: 35px 60px;
     font-size: 48px;
 }
+
+.work{
+    background-color: #313131;
+    color: #FFFFFF;
+}
+
+.mb50{
+    margin-bottom: 50px;
+}
+
+.col-6{
+    flex: 0 0 50%;
+    max-width: 50%;
+}
