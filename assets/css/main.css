@@ -1,6 +1,6 @@
 
 html, body{
-    background-color: white;
+    background-color: #313131;
 }
 
 
@@ -82,7 +82,7 @@ p{
 }
 
 .work{
-    background-color: #313131;
+    padding-top: 40px;
     color: #FFFFFF;
 }
 
@@ -94,3 +94,4 @@ p{
     flex: 0 0 50%;
     max-width: 50%;
 }
+
