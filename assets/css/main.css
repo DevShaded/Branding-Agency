@@ -28,10 +28,15 @@ h4 {
     font-size: 25px;
     color: #FFFFFF;
     margin-bottom: 40px;
+
+    font-family: 'Cursive';
+
 }
 
 h1{
     margin-bottom: 80px;
+    font-family: 'Verdana';
+    font-size: 40px;
 }
 
 .about {
@@ -52,11 +57,15 @@ h1{
 
 .white{
     color: #FFFFFF;
+
+    font-family: 'Courier New', Courier, monospace;
 }
 
 h2{
     text-transform: uppercase;
     font-size: 48px;
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 }
 
